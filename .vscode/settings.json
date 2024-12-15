@@ -1,0 +1,7 @@
+{
+    "gradle.javaDebug.cleanOutput": true,
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "cmake.sourceDirectory": "C:/homless/windows/flutter",
+    "jdk.advanced.disable.nbjavac": false,
+    "java.gradle.buildServer.openBuildOutput": "openOnBuildFailure"
+}
